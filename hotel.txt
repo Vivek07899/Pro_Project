@@ -1,1 +1,3 @@
-ECHO is on.
+Hey this
+is a notepad
+and u cnt use cmd
